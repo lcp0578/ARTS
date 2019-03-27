@@ -1,5 +1,6 @@
 # ARTS
 > 左耳听风，Algorithm &amp; Review &amp; Tip &amp; Share
+> 知乎打卡地址：https://www.zhihu.com/question/301150832
 
 - Algorithm：每周至少做一个 leetcode 的算法题
 - Review：阅读并点评至少一篇英文技术文章
